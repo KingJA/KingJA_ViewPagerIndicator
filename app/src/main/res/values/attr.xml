@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="IndicatorLayout">
+        
+        <attr name="visibleCount" format="integer"/>
+        <attr name="tabTextColor" format="color"/>
+    </declare-styleable>
+</resources>
